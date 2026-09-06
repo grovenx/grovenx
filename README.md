@@ -24,20 +24,7 @@ const grovenx = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="22"/> Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/viem-c5f82a?style=flat-square&logo=ethereum&logoColor=black&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white&labelColor=0a0f06"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=0a0f06"/>
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white&labelColor=0a0f06"/>
-</p>
+<img src="./stack.svg" alt="TypeScript · Node.js · viem · Python · Solidity · FFmpeg · Docker · Git · Claude Code · Grok" width="600"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22"/> What I work on
 

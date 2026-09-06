@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-label="grovenx">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050705"/>
+      <stop offset="0.55" stop-color="#0a0f06"/>
+      <stop offset="1" stop-color="#151d08"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1160 120) rotate(150) scale(720 520)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c5f82a" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#8fd400" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8fd400" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4fce0"/>
+      <stop offset="0.7" stop-color="#eaf6cf"/>
+      <stop offset="1" stop-color="#c5f82a"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="14" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="14" fill="url(#glow)"/>
+
+  <g stroke="#c5f82a" stroke-opacity="0.05" stroke-width="1">
+    <line x1="0" y1="90" x2="1280" y2="90"/>
+    <line x1="0" y1="180" x2="1280" y2="180"/>
+    <line x1="0" y1="270" x2="1280" y2="270"/>
+    <line x1="320" y1="0" x2="320" y2="360"/>
+    <line x1="640" y1="0" x2="640" y2="360"/>
+    <line x1="960" y1="0" x2="960" y2="360"/>
+  </g>
+
+  <text x="80" y="185" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="-4" fill="url(#ink)" filter="url(#soft)">grovenx</text>
+
+  <text x="86" y="238" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="24" letter-spacing="1" fill="#9fb27a">typescript · viem · agent harnesses · on-chain forensics</text>
+
+  <text x="86" y="286" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="18" fill="#c5f82a" fill-opacity="0.85">&gt; receipts over claims_</text>
+
+  <path d="M0 300 C 220 340, 420 300, 640 316 C 900 336, 1080 300, 1280 320 L 1280 360 L 0 360 Z" fill="#050705"/>
+  <path d="M0 300 C 220 340, 420 300, 640 316 C 900 336, 1080 300, 1280 320" fill="none" stroke="#c5f82a" stroke-opacity="0.5" stroke-width="2"/>
+</svg>

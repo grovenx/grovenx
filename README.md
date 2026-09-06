@@ -64,16 +64,8 @@ SOL       9M5AB3E2oiFoNPivm2r7wsUSrC3JuoXu3tqNX8UZM8S
 Robinhood 0x8e40401d502a7fe4cf65f86323e87194f3ef928c
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22"/> Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=grovenx&show_icons=true&hide_border=true&bg_color=0a0f06&title_color=c5f82a&icon_color=c5f82a&text_color=9fb27a&ring_color=c5f82a" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grovenx&hide_border=true&background=0a0f06&stroke=c5f82a&ring=c5f82a&fire=c5f82a&currStreakLabel=c5f82a&sideLabels=9fb27a&dates=6b7a4a&currStreakNum=f4fce0&sideNums=f4fce0&dayLabel=9fb27a" alt="streak"/>
-
-</div>
-
-<div align="center">
+<br/>
 <br/>
 <sub><code>local first · the chain is the source · receipts over claims</code></sub>
 </div>

@@ -50,7 +50,7 @@ const grovenx = {
 
 > Nothing here is a black box. If a number is on screen, the tool can show the block it came from.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bow%20And%20Arrow.png" width="22"/> Now shipping
+## 🏹 Now shipping
 
 - **launch sniper** — read → score → enter, all inside rules you can audit
 - **on-chain forensics kit** — tax, exemptions and deployer sells straight from logs
